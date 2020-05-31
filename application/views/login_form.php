@@ -88,7 +88,7 @@
 
                 <div>
                   <h1><i class="fa fa-home"></i> HR Solutions!</h1>
-                  <p>©2019 All Rights Reserved. HR Solutions Company!</p>
+                  <p>©2020 All Rights Reserved. HR Solutions Company!</p>
                 </div>
               </div>
             </form>
